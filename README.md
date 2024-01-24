@@ -1,2 +1,2 @@
 # Expense_Tracker
-An (unfinished) expense tracker built for personal use
+A simple expense tracker built for personal use
